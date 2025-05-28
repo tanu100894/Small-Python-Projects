@@ -5,8 +5,8 @@ import plotly.express as px
 df = pd.read_csv("happy.csv")
 
 st.title("In search for Happiness")
-x_axis = st.selectbox("Select the data dor the X-axis",("GDP", "Happiness", "Generosity"), key="x-axis")
-y_axis = st.selectbox("Select the data dor the X-axis",("GDP", "Happiness", "Generosity"), key="y-axis")
+x_axis = st.selectbox("Select the data for the X-axis",("GDP", "Happiness", "Generosity"))
+y_axis = st.selectbox("Select the data for the Y-axis",("GDP", "Happiness", "Generosity"))
 
 st.subheader(f"{x_axis} and {y_axis}")
 
