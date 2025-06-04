@@ -16,3 +16,9 @@
 [2025-06-05 01:15:48] ChatBot: Sorry, I don't understand that.
 [2025-06-05 01:15:53] You: bye
 [2025-06-05 01:15:53] ChatBot: Goodbye!
+
+--- New Chat Session ---
+[2025-06-05 01:18:21] You: hi
+[2025-06-05 01:18:21] ChatBot: Hello there!
+[2025-06-05 01:18:26] You: bye
+[2025-06-05 01:18:26] ChatBot: Goodbye!

@@ -2,8 +2,6 @@
 
 import datetime
 
-from pyarrow import timestamp
-
 print("Hi! I'm the ChatBot. Type 'bye' to exit.")
 conversation_log = []
 
