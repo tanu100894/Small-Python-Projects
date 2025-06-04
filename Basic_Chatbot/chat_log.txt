@@ -1,0 +1,18 @@
+
+--- New Chat Session ---
+[2025-06-05 01:14:54] You: hey
+[2025-06-05 01:14:54] ChatBot: Hello there!
+[2025-06-05 01:14:59] You: how are you
+[2025-06-05 01:14:59] ChatBot: I'm just code, but thanks for asking!
+[2025-06-05 01:15:08] You: bye
+[2025-06-05 01:15:08] ChatBot: Goodbye!
+
+--- New Chat Session ---
+[2025-06-05 01:15:28] You: hello
+[2025-06-05 01:15:28] ChatBot: Hello there!
+[2025-06-05 01:15:37] You: what's your name
+[2025-06-05 01:15:37] ChatBot: I'm a simple Python ChatBot.
+[2025-06-05 01:15:48] You: whar you are
+[2025-06-05 01:15:48] ChatBot: Sorry, I don't understand that.
+[2025-06-05 01:15:53] You: bye
+[2025-06-05 01:15:53] ChatBot: Goodbye!
